@@ -5,35 +5,35 @@ const Featured = () => {
         <section>
             <h2>Featured Categories</h2>
             <div className='bigCard'>
-                <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3A7011c36e-02ad-4646-af22-95748c8b5d9b&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="a hamburger i guess??" />
+                <img src="/images/kisspng-doner-kebab-kapsalon-pizza-turkish-cuisine-kebab-5ac9869a962f36.7779223015231566346152.png" alt="a hamburger i guess??" />
                 <h3>hamburger</h3>
                 <div className='stars'>
-                    <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3Afe25b2b1-94c9-48af-afd2-34f73a7ccd13&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="" />
-                    <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3Afe25b2b1-94c9-48af-afd2-34f73a7ccd13&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="" />
-                    <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3A95b664b2-e768-4666-999c-499c5f409981&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="" />
+                    <img src="/images/noun_Star_3203070.png" alt="" />
+                    <img src="/images/noun_Star_3203070.png" alt="" />
+                    <img src="/images/2noun_Star_3203070.png" alt="" />
                 </div>
                 <h4>$3.25</h4>
                 <button className='square'>Buy now</button>
             </div>
             <div className='bigCard'>
-                <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3A5c10d555-1304-425b-92eb-4a436bdd7a08&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="a sub sandwich" />
+                <img src="/images/kisspng-submarine-sandwich-barbecue-chicken-firehouse-subs-sub-sandwich-5b165469257050.2481338715281900571534.png" alt="a sub sandwich" />
                 <h3>Sub Sandwich</h3>
 
                 <div className='stars'>
-                    <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3Afe25b2b1-94c9-48af-afd2-34f73a7ccd13&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="" />
-                    <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3Afe25b2b1-94c9-48af-afd2-34f73a7ccd13&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="" />
-                    <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3A95b664b2-e768-4666-999c-499c5f409981&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="" />
+                    <img src="/images/noun_Star_3203070.png" alt="" />
+                    <img src="/images/noun_Star_3203070.png" alt="" />
+                    <img src="/images/2noun_Star_3203070.png" alt="" />
                 </div>
                 <h4>$15.25</h4>
                 <button className='square'>Buy now</button>
             </div>
             <div className='bigCard'>
-                <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3A7825660e-444e-4c3c-b557-63ff19ebbb6f&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="a hot dog" />
+                <img src="/images/kisspng-chicago-style-hot-dog-hamburger-barbecue-bxe1nh-mx-hot-dog-5a735972beccb3.3331627015175089787815.png" alt="a hot dog" />
                 <h3>Hot Dogs</h3>
                 <div className='stars'>
-                    <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3Afe25b2b1-94c9-48af-afd2-34f73a7ccd13&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="" />
-                    <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3Afe25b2b1-94c9-48af-afd2-34f73a7ccd13&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="" />
-                    <img src="https://public-v2links.adobecc.com/21c48864-e471-4b2c-6ff5-b35113d11222/component?params=component_id%3A95b664b2-e768-4666-999c-499c5f409981&params=version%3A0&token=1594136298_da39a3ee_f69823b6f9bc55fe36a8f210fb7e5b03c76ae1ea&api_key=CometServer1" alt="" />
+                    <img src="/images/noun_Star_3203070.png" alt="" />
+                    <img src="/images/noun_Star_3203070.png" alt="" />
+                    <img src="/images/2noun_Star_3203070.png" alt="" />
                 </div>
                 <h4>$25.50</h4>
                 <button className='square'>Buy now</button>
