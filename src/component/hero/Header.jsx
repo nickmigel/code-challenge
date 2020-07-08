@@ -3,13 +3,15 @@ import React from 'react'
 const Header = () => {
     return (
         <header>
-            <div>
+            <div className='hero'>
                 <div>
                     <h1>TASTY BURGER</h1>
-                    <p>Grab the best tasty burger of the town we make the best burger for you</p>
+                    <p>Grab the best tasty burger of the town we make the best<br /> burger for you</p>
                     <button>Learn more</button>
                 </div>
-                <img src="/images/00.png" alt="chicken sandwich with lettuce tomatoe onions cheese pickles and ketchup" />
+                <div id='hero-div'>
+                    <img id='hero-img' src="/images/00.png" alt="chicken sandwich with lettuce tomatoe onions cheese pickles and ketchup" />
+                </div>
             </div>
             <div id='miniMenu'>
                 <div className='menuCard'>
