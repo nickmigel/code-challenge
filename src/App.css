@@ -11,6 +11,10 @@ h1{
   margin-left: 138px;
 }
 
+h5{
+  font-size: 1.6rem;
+}
+
 button{
   font-size: 1.6rem;
 }
@@ -100,9 +104,34 @@ header .hero{
 }
 
 #hero-div{
-  background-color: #FFCC00;
   margin-left: 500px;
-  width: 650px;
-  border-radius: 500px;
-  height: 640px;
+}
+#miniMenu{
+  display: flex;
+}
+
+header .menuCard{
+  background-color: white;
+  box-shadow: 0px 10px 45px #0000001A;
+  width: 15%;
+  border: 1px black solid;
+  margin: 3%;
+  display: flex;
+  text-align: center;
+}
+
+header .menuCard p{
+  align-self: center;
+}
+
+header .menuCard img{
+  width: 90px;
+}
+
+header .menuCard .one img{
+  width: 70px;
+}
+
+header .menuCard .two img{
+  width: 70px;
 }
