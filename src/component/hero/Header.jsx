@@ -13,6 +13,7 @@ const Header = () => {
                     <img id='hero-img' src="/images/00.png" alt="chicken sandwich with lettuce tomatoe onions cheese pickles and ketchup" />
                 </div>
             </div >
+
             <div id='miniMenu'>
                 <div className='menuCard'>
                     <div className='circle one'>
@@ -42,6 +43,9 @@ const Header = () => {
                         <p>$10.30</p>
                     </div>
                 </div>
+            </div>
+            <div id='fries'>
+                <img src="\images\kisspng-french-fries-deep-frying-junk-food-french-fries-5a81fb02577680.2267572515184678423583.png" alt="french fries" />
             </div>
         </header >
     )

@@ -41,6 +41,9 @@ const Featured = () => {
                     <button className='square'>Buy now</button>
                 </div>
             </section>
+            <div id='parsley'>
+                <img src="\images\kisspng-mentha-spicata-peppermint-maghrebi-mint-tea-mentha-mint-png-clipart-5a74b43eb9ca18.242593481517597758761.png" alt="" />
+            </div>
         </>
     )
 }
