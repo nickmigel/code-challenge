@@ -2,7 +2,7 @@ import React from 'react'
 
 const DownloadBox = () => {
     return (
-        <div>
+        <div id='downloadBox'>
             <h2>Download the app today</h2>
             <p>Download our app from the play store or apple's app store today</p>
             <div>
