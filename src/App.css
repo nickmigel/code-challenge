@@ -82,7 +82,7 @@ nav a:not(:last-child){
   margin-top: 30px;
 }
 
-header p{
+header .hero p{
   margin-left: 138px;
   font: Medium 18px/40px Barlow;
 }
@@ -96,7 +96,8 @@ button{
 }
 
 header button{
-  margin-left: 138px;
+  margin-top: 10%;
+  margin-left: 20%;
 }
 
 header .hero{
@@ -104,24 +105,25 @@ header .hero{
 }
 
 #hero-div{
-  margin-left: 500px;
+  margin-left: 20%;
 }
 #miniMenu{
   display: flex;
+ margin-right: -20%;
 }
 
 header .menuCard{
-  background-color: white;
+  background: #FEFEFE 0% 0% no-repeat padding-box;
   box-shadow: 0px 10px 45px #0000001A;
-  width: 15%;
-  border: 1px black solid;
+  width: 10%;
   margin: 3%;
   display: flex;
   text-align: center;
 }
 
-header .menuCard p{
-  align-self: center;
+.price{
+  text-align: start;
+  margin-left: 10%;
 }
 
 header .menuCard img{
@@ -155,10 +157,20 @@ header .menuCard:first-child{
   font-size: 1.8rem;
 }
 
+#about-text{
+  margin-left: -15%;
+}
+
+#about button{
+  margin-top: 8%;
+}
+
 #featured{
   display: flex;
   justify-content: space-around;
   position: relative;
+  width: 70%;
+  margin: auto;
 }
 
 #featured .bigCard{
@@ -168,6 +180,7 @@ header .menuCard:first-child{
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  width: 32%;
 }
 
 .bigCard:last-child{
@@ -195,7 +208,7 @@ header .menuCard:first-child{
 }
 
 #featured .bigCard:nth-child(2){
-  width: 18%;
+  width: 28%;
 }
 
 #featured .bigCard:nth-child(2) img :not(.stars){
@@ -206,6 +219,14 @@ header .menuCard:first-child{
   height: 58px;
   top: 0;
   margin-bottom: 20%;
+}
+
+#featured .bigimg {
+  margin-top: -30%;
+}
+
+#featured #blah1{
+  margin-top: -50%;
 }
 
 #title{
@@ -226,6 +247,7 @@ header .menuCard:first-child{
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 15%;
 }
 
 #testimonial img {
@@ -252,6 +274,7 @@ header .menuCard:first-child{
   height: 35vh;
   margin: auto;
   text-align: center;
+  margin-bottom: 10%;
 }
 
 #downloadBox h2{
@@ -281,10 +304,14 @@ subnav h4 {
   font-size: 2.4rem;
 }
 
-nav{
+nav:first-child{
   border-bottom: 1px solid #899BB4;
   padding-bottom: 5%;
   margin-bottom: 5%;
+}
+
+#lorem2{
+  margin-left: -20%;
 }
 
 #copyright p{
@@ -296,6 +323,8 @@ nav{
 #fries {
   display: flex;
   flex-direction: column-reverse;
+  margin-top: -18%;
+  width: 170%;
 }
 
 #fries img{

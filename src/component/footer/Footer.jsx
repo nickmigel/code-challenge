@@ -4,9 +4,11 @@ const Footer = () => {
     return (
         <div id='copyright'>
             <nav className='footer'>
-                <subNav>
+                <subNav id='lorem'>
                     <h3><span>Burger</span>Hub</h3>
-                    <p>lorem ipsum dollar seat amet lorem<br /> ipsum dollar not a seat amet dollar seat<br /> is amet</p>
+                    <div id='lorem2'>
+                        <p>lorem ipsum dollar seat amet lorem<br /> ipsum dollar not a seat amet dollar seat<br /> is amet</p>
+                    </div>
                 </subNav>
                 <subNav>
                     <h4>Quick Link</h4>
